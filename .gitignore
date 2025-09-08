@@ -1,0 +1,37 @@
+# STM32CubeIDE / Keil / IAR build artifacts
+Debug/
+Release/
+build/
+*.o
+*.elf
+*.map
+*.hex
+*.bin
+*.su
+*.axf
+*.srec
+*.lst
+
+# STM32CubeIDE project files
+.project
+.cproject
+.settings/
+
+# Keil specific files
+*.uvprojx
+*.uvoptx
+RTE/
+Objects/
+Listings/
+
+# IAR specific files
+settings/
+debug/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Other
+.DS_Store
+Thumbs.db
