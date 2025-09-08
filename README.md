@@ -1,6 +1,6 @@
 # STM32-Based 4WD Smart Robot Car
 
-
+Author：zyp、gay、zby
 
 这是一个基于STM32F407VET6微控制器和Raspberry Pi 4B上位机的四轮驱动智能小车项目。它集成了多种功能，包括基于PID算法的闭环电机速度控制、四路红外循迹、超声波避障以及通过I2C通信的语音识别控制。
 
